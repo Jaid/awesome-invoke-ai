@@ -1,0 +1,6 @@
+- url: invoke-ai/InvokeAI
+  description: Main repository including the Python backend and React frontend
+- url: invoke-ai/invoke-workflows
+  description: Example workflow setups that can be imported into Invoke’s Workflows view
+- url: invoke-ai/invoke-training
+  description: Python library that simplifies training/finetuning

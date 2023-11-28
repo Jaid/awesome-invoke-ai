@@ -1,0 +1,7 @@
+- url: dwringer/composition-nodes
+  description: Image and Mask Composition node bundle
+- url: ymgenesis/NodeUtilities
+  description: |-
+    Node Utilities (for example: Remove Background, Face Swapper)
+- url: sammyf/oobabooga-node
+  description: Prompt generator which calls a local Oobabooga server
